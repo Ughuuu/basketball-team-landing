@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<img style="float: right;" src="assets/bike_hard.gif">
+
+Continue markdown text...
+
+Continue markdown text...
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
