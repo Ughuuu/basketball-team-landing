@@ -27,15 +27,15 @@ Do you wanna join my basketball team?
 
 * Let's make teams, compete and have some fun.
 
-<img style="margin: auto; display: block;" src="assets/tournament.gif">
+<img style="margin: auto; display: block; width:50%;" src="assets/tournament.gif">
 
 ## Improve
 
 * Be motivated to go and play with your teammates.
 * Exercise towards the goal of improving and participating to tournaments.
 
-<img style="margin: auto; display: block;" src="assets/bike_hard.gif">
-<img style="margin: auto; display: block;" src="assets/bike_fun.gif">
+<img style="margin: auto; display: block; width:50%;" src="assets/bike_hard.gif">
+<img style="margin: auto; display: block; width:50%;" src="assets/bike_fun.gif">
 
 ## Join
 
@@ -57,6 +57,6 @@ Do you wanna join my basketball team?
 </form>
 </div>
 
-<img style="margin: auto; display: block;" src="assets/spin_big.gif">
+<img style="margin: auto; display: block; width:50%;" src="assets/spin_big.gif">
 
 <!--End mc_embed_signup-->
