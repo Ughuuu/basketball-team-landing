@@ -27,6 +27,7 @@ layout: home
         margin: auto;
         font-size: 20px !important;
         background-color: #2F66A9 !important;
+        text-color: white !important;
     }
 </style>
 <img src="assets/logo_orange_text.png" alt="Basketball Team Logo">
