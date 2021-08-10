@@ -50,14 +50,14 @@ Do you wanna join my basketball team?
 ## Join
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://baskettbalteam.us5.list-manage.com/subscribe/post?u=583728a023d17acd66e79c18f&amp;id=ba2192dab6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://appsinacup.us5.list-manage.com/subscribe/post?u=583728a023d17acd66e79c18f&amp;id=ba2192dab6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -66,7 +66,5 @@ Do you wanna join my basketball team?
     </div>
 </form>
 </div>
-
-<img style="margin: auto; display: block; width:50%;" src="assets/spin_big.gif" alt="Hand holding spinning basketball">
 
 <!--End mc_embed_signup-->
