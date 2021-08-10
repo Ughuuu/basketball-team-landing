@@ -23,8 +23,11 @@ layout: home
         text-align: center
     }
     .button {
-        width: 200px !important;
+        width: 100% !important;
         background-color: #2F66A9 !important;
+    }
+    #mce-EMAIL {
+        width: 100% !important;
     }
 </style>
 <img src="assets/logo_orange_text.png" alt="Basketball Team Logo">
