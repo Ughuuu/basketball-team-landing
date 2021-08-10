@@ -14,27 +14,24 @@ layout: home
     .site-header {
         background-color: #f4f4f4;
     }
+    .wrapper {
+        padding: 0px !important;
+    }
+    .home {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .email {
+        width: 30% !important;
+    }
 </style>
-
-<img src="/assets/bike_hard.gif">
-
-<img style="float: right;" src="/assets/logo_wide.gif">
-
-Continue markdown text...
-
-Continue markdown text...
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<img src="assets/logo_wide.png">
+<br>
+<img style="float: right;" src="assets/bike_hard.gif">
 
 
-[jekyll-organization]: https://github.com/jekyll
+Hey you,
+Do you wanna join my basketball team?
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -46,7 +43,6 @@ You can find the source code for Jekyll at GitHub:
 <div id="mc_embed_signup">
 <form action="https://baskettbalteam.us5.list-manage.com/subscribe/post?u=583728a023d17acd66e79c18f&amp;id=ba2192dab6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_583728a023d17acd66e79c18f_ba2192dab6" tabindex="-1" value=""></div>
