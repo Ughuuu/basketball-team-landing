@@ -6,12 +6,12 @@ layout: home
 ---
 
 <style type="text/css">
-    .page-content {
+    .page-content,
+    .site-footer,
+    .site-header {
     background-color: #FDA501;
     }
-    .site-footer,
     .wrapper,
-    .site-header,
     #mc_embed_signup,
     #mc_embed_signup_scroll,
     #mc-embedded-subscribe-form,
