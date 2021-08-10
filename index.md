@@ -9,7 +9,7 @@ layout: home
     .page-content {
     background-color: #FDA501;
     }
-    .wrapper {
+    .site-footer .wrapper .site-header {
         background-color: #f4f4f4;
     }
 </style>
