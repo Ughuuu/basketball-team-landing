@@ -6,9 +6,12 @@ layout: home
 ---
 
 <style type="text/css">
-  .page-content {
-    background-color: '#FDA501';
-  }
+    .page-content {
+    background-color: #FDA501;
+    }
+    .wrapper {
+        background-color: #f4f4f4;
+    }
 </style>
 
 <img style="float: right;" src="/assets/bike_hard.gif">
