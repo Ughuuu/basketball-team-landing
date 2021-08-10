@@ -5,6 +5,12 @@
 layout: home
 ---
 
+<style type="text/css">
+  .page-content {
+    background-color: '#FDA501';
+  }
+</style>
+
 <img style="float: right;" src="/assets/bike_hard.gif">
 
 Continue markdown text...
