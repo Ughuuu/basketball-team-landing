@@ -17,19 +17,19 @@ layout: home
         background-color: #f4f4f4;
     }
 </style>
-<img src="assets/logo_wide.png">
+<img src="assets/logo_orange_text.png">
 
-# Hey you
+## Hey you
 
 Do you wanna join my basketball team?
 
-# Tournaments
+## Tournaments
 
 * Let's make teams, compete and have some fun.
 
 <img style="margin: auto; display: block;" src="assets/tournament.gif">
 
-# Improve
+## Improve
 
 * Be motivated to go and play with your teammates.
 * Exercise towards the goal of improving and participating to tournaments.
@@ -37,7 +37,7 @@ Do you wanna join my basketball team?
 <img style="margin: auto; display: block;" src="assets/bike_hard.gif">
 <img style="margin: auto; display: block;" src="assets/bike_fun.gif">
 
-# Join
+## Join
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
