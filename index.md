@@ -6,11 +6,11 @@ layout: home
 ---
 
 <style type="text/css">
-    .page-content,
-    .site-footer,
-    .site-header {
+    .page-content {
     background-color: #FDA501;
     }
+    .site-footer,
+    .site-header,
     .wrapper,
     #mc_embed_signup,
     #mc_embed_signup_scroll,
@@ -32,7 +32,7 @@ layout: home
     }
 </style>
 
-<img src="assets/logo_black.png" alt="Basketball Team Logo" style="margin: auto; display: block; width:50%;">
+<img src="assets/logo_black.png" alt="Basketball Team Logo" style="margin: auto; display: block; width:33%;">
 
 ## Hey you
 
