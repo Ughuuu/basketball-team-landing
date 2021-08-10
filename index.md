@@ -12,20 +12,9 @@ layout: home
     .site-footer,
     .wrapper,
     .site-header,
-    #mc_embed_signup {
+    #mc_embed_signup,
+    #mc_embed_signup_scroll {
         background-color: #f4f4f4;
-    }
-    .wrapper {
-        padding: 0px !important;
-    }
-    .home {
-        padding-right: 30px;
-        padding-left: 30px;
-    }
-    @media screen and (max-width: 800px) {
-      .half {
-        width: 100%;
-      }
     }
 </style>
 <img src="assets/logo_wide.png">
@@ -42,13 +31,13 @@ Do you wanna join my basketball team?
 
 # Improve
 
-<figure class="half" style="display:flex">
-    <img style="flex: 33%" src="assets/bike_hard.gif">
-    <img style="width:100%" src="assets/bike_fun.gif">
-</figure>
-
 * Be motivated to go and play with your teammates.
 * Exercise towards the goal of improving and participating to tournaments.
+
+<img style="margin: auto; display: block;" src="assets/bike_hard.gif">
+<img style="margin: auto; display: block;" src="assets/bike_fun.gif">
+
+# Join
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
