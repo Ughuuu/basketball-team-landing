@@ -16,6 +16,10 @@ layout: home
     #mc_embed_signup_scroll {
         background-color: #f4f4f4;
     }
+    #mc_embed_signup {
+        margin: auto;
+        text-align: center
+    }
 </style>
 <img src="assets/logo_orange_text.png">
 
