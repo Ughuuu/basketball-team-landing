@@ -20,6 +20,10 @@ layout: home
         margin: auto;
         text-align: center
     }
+    .button {
+        width: 200px !important;
+        background-color: #2F66A9 !important;
+    }
 </style>
 <img src="assets/logo_orange_text.png">
 
