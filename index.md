@@ -25,7 +25,7 @@ layout: home
         background-color: #2F66A9 !important;
     }
 </style>
-<img src="assets/logo_orange_text.png">
+<img src="assets/logo_orange_text.png" alt="Basketball Team Logo">
 
 ## Hey you
 
@@ -35,15 +35,15 @@ Do you wanna join my basketball team?
 
 * Let's make teams, compete and have some fun.
 
-<img style="margin: auto; display: block; width:50%;" src="assets/tournament.gif">
+<img style="margin: auto; display: block; width:50%;" src="assets/tournament.gif" alt="Tournaments image with podium">
 
 ## Improve
 
 * Be motivated to go and play with your teammates.
 * Exercise towards the goal of improving and participating to tournaments.
 
-<img style="margin: auto; display: block; width:50%;" src="assets/bike_hard.gif">
-<img style="margin: auto; display: block; width:50%;" src="assets/bike_fun.gif">
+<img style="margin: auto; display: block; width:50%;" src="assets/bike_hard.gif" alt="Person having difficulty going with bike">
+<img style="margin: auto; display: block; width:50%;" src="assets/bike_fun.gif" alt="Person enjoying going with bike">
 
 ## Join
 
@@ -65,6 +65,6 @@ Do you wanna join my basketball team?
 </form>
 </div>
 
-<img style="margin: auto; display: block; width:50%;" src="assets/spin_big.gif">
+<img style="margin: auto; display: block; width:50%;" src="assets/spin_big.gif" alt="Hand holding spinning basketball">
 
 <!--End mc_embed_signup-->
