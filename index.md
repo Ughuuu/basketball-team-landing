@@ -13,8 +13,10 @@ layout: home
     .wrapper,
     .site-header,
     #mc_embed_signup,
-    #mc_embed_signup_scroll {
-        background-color: #f4f4f4;
+    #mc_embed_signup_scroll,
+    #mc-embedded-subscribe-form,
+    #clear {
+        background-color: #f4f4f4 !important;
     }
     #mc_embed_signup {
         margin: auto;
