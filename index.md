@@ -32,7 +32,7 @@ layout: home
     }
 </style>
 
-<img src="assets/logo_black.png" alt="Basketball Team Logo" style="margin: auto; display: block; width:33%;">
+<img src="assets/logo_black.png" alt="Basketball Team Logo" style="margin: auto; display: block; width:100%;">
 
 ## Hey you
 
