@@ -24,6 +24,8 @@ layout: home
     }
     .button {
         width: 100% !important;
+        height: 50px !important;
+        font-size: 20px !important;
         background-color: #2F66A9 !important;
     }
 </style>
