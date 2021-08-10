@@ -23,8 +23,8 @@ layout: home
         text-align: center;
     }
     .button {
-        width: 100% !important;
         height: 50px !important;
+        margin: auto;
         font-size: 20px !important;
         background-color: #2F66A9 !important;
     }
@@ -48,7 +48,7 @@ Do you wanna join my basketball team?
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_583728a023d17acd66e79c18f_ba2192dab6" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><br><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
