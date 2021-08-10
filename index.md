@@ -31,7 +31,7 @@ layout: home
         color: white !important;
     }
 </style>
-<img src="assets/logo_orange_text.png" alt="Basketball Team Logo">
+<img src="assets/logo_black_text.png" alt="Basketball Team Logo">
 
 ## Hey you
 
