@@ -6,18 +6,6 @@ layout: home
 ---
 
 <style type="text/css">
-    .page-content {
-    background-color: #FDA501;
-    }
-    .site-footer,
-    .site-header,
-    .wrapper,
-    #mc_embed_signup,
-    #mc_embed_signup_scroll,
-    #mc-embedded-subscribe-form,
-    #clear {
-        background-color: #f4f4f4 !important;
-    }
     #mc_embed_signup {
         margin: auto;
         text-align: center;
