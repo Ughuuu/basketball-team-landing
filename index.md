@@ -23,8 +23,8 @@ layout: home
         text-align: center;
     }
     .button {
-        width: 100% !important;
         height: 50px !important;
+        display: block;
         margin: auto;
         font-size: 20px !important;
         background-color: #2F66A9 !important;
